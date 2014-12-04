@@ -5,7 +5,7 @@
   "version": "0.3.4",
   "repository": {
     "type": "git",
-    "url": "git://github.com/crcn/nexe.git"
+    "url": "git://github.com/thagberg/nexe.git"
   },
   "main": "./lib/index.js",
   "dependencies": {
